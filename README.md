@@ -109,4 +109,4 @@ Licensed under the MIT license.
 [whoooa]: https://www.whoooa.rocks/
 [Landy]: https://www.npmjs.com/package/cra-template-adrinlol
 [Google Lighthouse]: https://developers.google.com/web/tools/lighthouse
-<!-- prettier-ignore-end -->
+
